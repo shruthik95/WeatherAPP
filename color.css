@@ -1,0 +1,34 @@
+body {
+    background-color: #749ff1;
+}
+
+header{
+    color: Black;
+    text-align: center;
+     font-family: fantasy;
+    font-size: 20px;
+   
+}
+
+.absolute{
+    margin: auto;
+    width: 40%;
+} 
+.temp{
+  cursor:pointer;
+  color:blue;
+}
+.temp:hover{
+  color:#005096;
+}
+
+.weather-text{
+	text-align: center;
+	color: black;
+    padding: 25px;
+    margin-top: centre;
+    font-weight: bold;
+    border-radius: 8px;
+    background: linear-gradient(160deg, #FBCA88, #EF69AD, #B236D0);
+    box-shadow: 0 0 25px 3px #bfa8bc; 
+    }
